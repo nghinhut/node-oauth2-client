@@ -1,6 +1,7 @@
 const moment = require('moment');
 const request = require('request');
 
+// Storage token to avoid request token overhead and rate limit
 let token;
 let token_created_at;
 
