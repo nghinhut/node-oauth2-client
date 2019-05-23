@@ -19,7 +19,7 @@ getToken = () => {
         // console.log(ClientOAuth2Token); //=> { accessToken: '...', tokenType: 'bearer', ... }
         // console.log(ClientOAuth2Token.tokenType);
         // console.log(ClientOAuth2Token.accessToken)
-        
+
         resolve(ClientOAuth2Token.tokenType + ' ' + ClientOAuth2Token.accessToken);
         // ex: bearer UtqialQW1vSqBGux1-GQjOh2QEnz3cQHCnUwV--DZVc.ZByXKuqFc2sbG8slKwRuCevLcmCb9LndzJMKipHu-zQ
       })
