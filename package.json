@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nghinhut/node-oauth2-client#readme",
   "dependencies": {
-    "grant": "^4.5.2"
+    "client-oauth2": "^4.2.4"
   }
 }
