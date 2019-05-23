@@ -1,0 +1,22 @@
+{
+  "name": "oauth2-client",
+  "version": "1.0.0",
+  "description": "* OAuth2 Server: [Hydra](https://github.com/ory/hydra)\r * grant_type: 'client_credentials'\r * response_type: token",
+  "main": "oauth2-client-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghinhut/node-oauth2-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nghinhut/node-oauth2-client/issues"
+  },
+  "homepage": "https://github.com/nghinhut/node-oauth2-client#readme",
+  "dependencies": {
+    "grant": "^4.5.2"
+  }
+}
