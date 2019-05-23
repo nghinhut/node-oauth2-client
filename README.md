@@ -1,4 +1,4 @@
-# node-oauth2-client
+# Example node-oauth2-client
 
 * OAuth2 Server: [Hydra](https://github.com/ory/hydra)
 * grant_type: 'client_credentials'
